@@ -1,0 +1,2632 @@
+[
+    {
+        "id": "rubai",
+        "name": "乳白",
+        "color": "#f9f4dc"
+    },
+    {
+        "id": "xingrenhuang",
+        "name": "杏仁黄",
+        "color": "#f7e8aa"
+    },
+    {
+        "id": "molihuang",
+        "name": "茉莉黄",
+        "color": "#f8df72"
+    },
+    {
+        "id": "maiganhuang",
+        "name": "麦秆黄",
+        "color": "#f8df70"
+    },
+    {
+        "id": "youcaihuahuang",
+        "name": "油菜花黄",
+        "color": "#fbda41"
+    },
+    {
+        "id": "foshouhuang",
+        "name": "佛手黄",
+        "color": "#fed71a"
+    },
+    {
+        "id": "miehuang",
+        "name": "篾黄",
+        "color": "#f7de98"
+    },
+    {
+        "id": "kuishanhuang",
+        "name": "葵扇黄",
+        "color": "#f8d86a"
+    },
+    {
+        "id": "ningmenghuang",
+        "name": "柠檬黄",
+        "color": "#fcd337"
+    },
+    {
+        "id": "jinguahuang",
+        "name": "金瓜黄",
+        "color": "#fcd217"
+    },
+    {
+        "id": "tenghuang",
+        "name": "藤黄",
+        "color": "#ffd111"
+    },
+    {
+        "id": "laohuang",
+        "name": "酪黄",
+        "color": "#f6dead"
+    },
+    {
+        "id": "xiangshuimeiguihuang",
+        "name": "香水玫瑰黄",
+        "color": "#f7da94"
+    },
+    {
+        "id": "danmihuang",
+        "name": "淡密黄",
+        "color": "#f9d367"
+    },
+    {
+        "id": "dadouhuang",
+        "name": "大豆黄",
+        "color": "#fbcd31"
+    },
+    {
+        "id": "suxinhuang",
+        "name": "素馨黄",
+        "color": "#fccb16"
+    },
+    {
+        "id": "xiangrikuihuang",
+        "name": "向日葵黄",
+        "color": "#fecc11"
+    },
+    {
+        "id": "yalihuang",
+        "name": "雅梨黄",
+        "color": "#fbc82f"
+    },
+    {
+        "id": "huanglianhuang",
+        "name": "黄连黄",
+        "color": "#fcc515"
+    },
+    {
+        "id": "jinzhanhuang",
+        "name": "金盏黄",
+        "color": "#fcc307"
+    },
+    {
+        "id": "dankehuang",
+        "name": "蛋壳黄",
+        "color": "#f8c387"
+    },
+    {
+        "id": "rouse",
+        "name": "肉色",
+        "color": "#f7c173"
+    },
+    {
+        "id": "ezhanghuang",
+        "name": "鹅掌黄",
+        "color": "#fbb929"
+    },
+    {
+        "id": "jidanhuang",
+        "name": "鸡蛋黄",
+        "color": "#fbb612"
+    },
+    {
+        "id": "youhuang",
+        "name": "鼬黄",
+        "color": "#fcb70a"
+    },
+    {
+        "id": "liuehuang",
+        "name": "榴萼黄",
+        "color": "#f9a633"
+    },
+    {
+        "id": "danjucheng",
+        "name": "淡橘橙",
+        "color": "#fba414"
+    },
+    {
+        "id": "pipahuang",
+        "name": "枇杷黄",
+        "color": "#fca106"
+    },
+    {
+        "id": "chengpihuang",
+        "name": "橙皮黄",
+        "color": "#fca104"
+    },
+    {
+        "id": "beiguahuang",
+        "name": "北瓜黄",
+        "color": "#fc8c23"
+    },
+    {
+        "id": "xinghuang",
+        "name": "杏黄",
+        "color": "#f28e16"
+    },
+    {
+        "id": "xionghuang",
+        "name": "雄黄",
+        "color": "#ff9900"
+    },
+    {
+        "id": "wanshoujuhuang",
+        "name": "万寿菊黄",
+        "color": "#fb8b05"
+    },
+    {
+        "id": "juleibai",
+        "name": "菊蕾白",
+        "color": "#e9ddb6"
+    },
+    {
+        "id": "qiukuihuang",
+        "name": "秋葵黄",
+        "color": "#eed045"
+    },
+    {
+        "id": "liuhuahuang",
+        "name": "硫华黄",
+        "color": "#f2ce2b"
+    },
+    {
+        "id": "youhuang",
+        "name": "柚黄",
+        "color": "#f1ca17"
+    },
+    {
+        "id": "mangguohuang",
+        "name": "芒果黄",
+        "color": "#ddc871"
+    },
+    {
+        "id": "haohuang",
+        "name": "蒿黄",
+        "color": "#dfc243"
+    },
+    {
+        "id": "jianghuang",
+        "name": "姜黄",
+        "color": "#e2c027"
+    },
+    {
+        "id": "xiangjiaohuang",
+        "name": "香蕉黄",
+        "color": "#e4bf11"
+    },
+    {
+        "id": "caohuang",
+        "name": "草黄",
+        "color": "#d2b42c"
+    },
+    {
+        "id": "xinhelv",
+        "name": "新禾绿",
+        "color": "#d2b116"
+    },
+    {
+        "id": "yuehui",
+        "name": "月灰",
+        "color": "#b7ae8f"
+    },
+    {
+        "id": "danhuilv",
+        "name": "淡灰绿",
+        "color": "#ad9e5f"
+    },
+    {
+        "id": "caohuilv",
+        "name": "草灰绿",
+        "color": "#8e804b"
+    },
+    {
+        "id": "tailv",
+        "name": "苔绿",
+        "color": "#887322"
+    },
+    {
+        "id": "biluochunlv",
+        "name": "碧螺春绿",
+        "color": "#867018"
+    },
+    {
+        "id": "yanyuhui",
+        "name": "燕羽灰",
+        "color": "#685e48"
+    },
+    {
+        "id": "xiekehui",
+        "name": "蟹壳灰",
+        "color": "#695e45"
+    },
+    {
+        "id": "tanshuilv",
+        "name": "潭水绿",
+        "color": "#645822"
+    },
+    {
+        "id": "ganlanlv",
+        "name": "橄榄绿",
+        "color": "#5e5314"
+    },
+    {
+        "id": "bangroubai",
+        "name": "蚌肉白",
+        "color": "#f9f1db"
+    },
+    {
+        "id": "douzhihuang",
+        "name": "豆汁黄",
+        "color": "#f8e8c1"
+    },
+    {
+        "id": "danjianhuang",
+        "name": "淡茧黄",
+        "color": "#f9d770"
+    },
+    {
+        "id": "ruyahuang",
+        "name": "乳鸭黄",
+        "color": "#ffc90c"
+    },
+    {
+        "id": "liroubai",
+        "name": "荔肉白",
+        "color": "#f2e6ce"
+    },
+    {
+        "id": "xiangyahuang",
+        "name": "象牙黄",
+        "color": "#f0d695"
+    },
+    {
+        "id": "chaomihuang",
+        "name": "炒米黄",
+        "color": "#f4ce69"
+    },
+    {
+        "id": "yingwuguanhuang",
+        "name": "鹦鹉冠黄",
+        "color": "#f6c430"
+    },
+    {
+        "id": "muguahuang",
+        "name": "木瓜黄",
+        "color": "#f9c116"
+    },
+    {
+        "id": "qianlaohuang",
+        "name": "浅烙黄",
+        "color": "#f9bd10"
+    },
+    {
+        "id": "lianzibai",
+        "name": "莲子白",
+        "color": "#e5d3aa"
+    },
+    {
+        "id": "guhuang",
+        "name": "谷黄",
+        "color": "#e8b004"
+    },
+    {
+        "id": "zhizihuang",
+        "name": "栀子黄",
+        "color": "#ebb10d"
+    },
+    {
+        "id": "jiehuang",
+        "name": "芥黄",
+        "color": "#d9a40e"
+    },
+    {
+        "id": "yinshuhui",
+        "name": "银鼠灰",
+        "color": "#b5aa90"
+    },
+    {
+        "id": "chenhui",
+        "name": "尘灰",
+        "color": "#b6a476"
+    },
+    {
+        "id": "kulv",
+        "name": "枯绿",
+        "color": "#b78d12"
+    },
+    {
+        "id": "jiaoqing",
+        "name": "鲛青",
+        "color": "#87723e"
+    },
+    {
+        "id": "zongyelv",
+        "name": "粽叶绿",
+        "color": "#876818"
+    },
+    {
+        "id": "huilv",
+        "name": "灰绿",
+        "color": "#8a6913"
+    },
+    {
+        "id": "hehui",
+        "name": "鹤灰",
+        "color": "#4a4035"
+    },
+    {
+        "id": "dansongyan",
+        "name": "淡松烟",
+        "color": "#4d4030"
+    },
+    {
+        "id": "anhaishuilv",
+        "name": "暗海水绿",
+        "color": "#584717"
+    },
+    {
+        "id": "zonglvlv",
+        "name": "棕榈绿",
+        "color": "#5b4913"
+    },
+    {
+        "id": "mise",
+        "name": "米色",
+        "color": "#f9e9cd"
+    },
+    {
+        "id": "danrouse",
+        "name": "淡肉色",
+        "color": "#f8e0b0"
+    },
+    {
+        "id": "maiyatanghuang",
+        "name": "麦芽糖黄",
+        "color": "#f9d27d"
+    },
+    {
+        "id": "hupohuang",
+        "name": "琥珀黄",
+        "color": "#feba07"
+    },
+    {
+        "id": "gancaohuang",
+        "name": "甘草黄",
+        "color": "#f3bf4c"
+    },
+    {
+        "id": "chushuxinghuang",
+        "name": "初熟杏黄",
+        "color": "#f8bc31"
+    },
+    {
+        "id": "qiantuose",
+        "name": "浅驼色",
+        "color": "#e2c17c"
+    },
+    {
+        "id": "shashihuang",
+        "name": "沙石黄",
+        "color": "#e5b751"
+    },
+    {
+        "id": "hupihuang",
+        "name": "虎皮黄",
+        "color": "#eaad1a"
+    },
+    {
+        "id": "tuhuang",
+        "name": "土黄",
+        "color": "#d6a01d"
+    },
+    {
+        "id": "bailingniaohui",
+        "name": "百灵鸟灰",
+        "color": "#b4a992"
+    },
+    {
+        "id": "shanjihuang",
+        "name": "山鸡黄",
+        "color": "#b78b26"
+    },
+    {
+        "id": "guibeihuang",
+        "name": "龟背黄",
+        "color": "#826b48"
+    },
+    {
+        "id": "canghuang",
+        "name": "苍黄",
+        "color": "#806332"
+    },
+    {
+        "id": "laiyanglihuang",
+        "name": "莱阳梨黄",
+        "color": "#815f25"
+    },
+    {
+        "id": "yililv",
+        "name": "蜴蜊绿",
+        "color": "#835e1d"
+    },
+    {
+        "id": "songshuhui",
+        "name": "松鼠灰",
+        "color": "#4f4032"
+    },
+    {
+        "id": "ganlanhui",
+        "name": "橄榄灰",
+        "color": "#503e2a"
+    },
+    {
+        "id": "xiekelv",
+        "name": "蟹壳绿",
+        "color": "#513c20"
+    },
+    {
+        "id": "gutonglv",
+        "name": "古铜绿",
+        "color": "#533c1b"
+    },
+    {
+        "id": "jiaochalv",
+        "name": "焦茶绿",
+        "color": "#553b18"
+    },
+    {
+        "id": "fenbai",
+        "name": "粉白",
+        "color": "#fbf2e3"
+    },
+    {
+        "id": "luoyingdanfen",
+        "name": "落英淡粉",
+        "color": "#f9e8d0"
+    },
+    {
+        "id": "guarangfen",
+        "name": "瓜瓤粉",
+        "color": "#f9cb8b"
+    },
+    {
+        "id": "mihuang",
+        "name": "蜜黄",
+        "color": "#fbb957"
+    },
+    {
+        "id": "jinyehuang",
+        "name": "金叶黄",
+        "color": "#ffa60f"
+    },
+    {
+        "id": "jinyinghuang",
+        "name": "金莺黄",
+        "color": "#f4a83a"
+    },
+    {
+        "id": "lujiaozong",
+        "name": "鹿角棕",
+        "color": "#e3bd8d"
+    },
+    {
+        "id": "diaoyezong",
+        "name": "凋叶棕",
+        "color": "#e7a23f"
+    },
+    {
+        "id": "daimaohuang",
+        "name": "玳瑁黄",
+        "color": "#daa45a"
+    },
+    {
+        "id": "ruanmuhuang",
+        "name": "软木黄",
+        "color": "#de9e44"
+    },
+    {
+        "id": "fengfanhuang",
+        "name": "风帆黄",
+        "color": "#dc9123"
+    },
+    {
+        "id": "guipidanzong",
+        "name": "桂皮淡棕",
+        "color": "#c09351"
+    },
+    {
+        "id": "houmaohui",
+        "name": "猴毛灰",
+        "color": "#97846c"
+    },
+    {
+        "id": "shanjihe",
+        "name": "山鸡褐",
+        "color": "#986524"
+    },
+    {
+        "id": "tuose",
+        "name": "驼色",
+        "color": "#66462a"
+    },
+    {
+        "id": "chahe",
+        "name": "茶褐",
+        "color": "#5d3d21"
+    },
+    {
+        "id": "gutonghe",
+        "name": "古铜褐",
+        "color": "#5c3719"
+    },
+    {
+        "id": "hehuabai",
+        "name": "荷花白",
+        "color": "#fbecde"
+    },
+    {
+        "id": "meiguifen",
+        "name": "玫瑰粉",
+        "color": "#f8b37f"
+    },
+    {
+        "id": "jucheng",
+        "name": "橘橙",
+        "color": "#f97d1c"
+    },
+    {
+        "id": "meirenjiaocheng",
+        "name": "美人焦橙",
+        "color": "#fa7e23"
+    },
+    {
+        "id": "runhong",
+        "name": "润红",
+        "color": "#f7cdbc"
+    },
+    {
+        "id": "dantaohong",
+        "name": "淡桃红",
+        "color": "#f6cec1"
+    },
+    {
+        "id": "hailuocheng",
+        "name": "海螺橙",
+        "color": "#f0945d"
+    },
+    {
+        "id": "taohong",
+        "name": "桃红",
+        "color": "#f0ada0"
+    },
+    {
+        "id": "jiahong",
+        "name": "颊红",
+        "color": "#eeaa9c"
+    },
+    {
+        "id": "danyingsuhong",
+        "name": "淡罂粟红",
+        "color": "#eea08c"
+    },
+    {
+        "id": "chenxihong",
+        "name": "晨曦红",
+        "color": "#ea8958"
+    },
+    {
+        "id": "xiekehong",
+        "name": "蟹壳红",
+        "color": "#f27635"
+    },
+    {
+        "id": "jinlianhuacheng",
+        "name": "金莲花橙",
+        "color": "#f86b1d"
+    },
+    {
+        "id": "caomeihong",
+        "name": "草莓红",
+        "color": "#ef6f48"
+    },
+    {
+        "id": "longjingyuhong",
+        "name": "龙睛鱼红",
+        "color": "#ef632b"
+    },
+    {
+        "id": "qingtinghong",
+        "name": "蜻蜓红",
+        "color": "#f1441d"
+    },
+    {
+        "id": "dahong",
+        "name": "大红",
+        "color": "#f04b22"
+    },
+    {
+        "id": "shihong",
+        "name": "柿红",
+        "color": "#f2481b"
+    },
+    {
+        "id": "liuhuahong",
+        "name": "榴花红",
+        "color": "#f34718"
+    },
+    {
+        "id": "yinzhu",
+        "name": "银朱",
+        "color": "#f43e06"
+    },
+    {
+        "id": "zhuhong",
+        "name": "朱红",
+        "color": "#ed5126"
+    },
+    {
+        "id": "guiyuhong",
+        "name": "鲑鱼红",
+        "color": "#f09c5a"
+    },
+    {
+        "id": "jinhuang",
+        "name": "金黄",
+        "color": "#f26b1f"
+    },
+    {
+        "id": "lupihe",
+        "name": "鹿皮褐",
+        "color": "#d99156"
+    },
+    {
+        "id": "zuiguarou",
+        "name": "醉瓜肉",
+        "color": "#db8540"
+    },
+    {
+        "id": "jizong",
+        "name": "麂棕",
+        "color": "#de7622"
+    },
+    {
+        "id": "danyinhui",
+        "name": "淡银灰",
+        "color": "#c1b2a3"
+    },
+    {
+        "id": "danzhe",
+        "name": "淡赭",
+        "color": "#be7e4a"
+    },
+    {
+        "id": "binglangzong",
+        "name": "槟榔综",
+        "color": "#c1651a"
+    },
+    {
+        "id": "yinhui",
+        "name": "银灰",
+        "color": "#918072"
+    },
+    {
+        "id": "haiouhui",
+        "name": "海鸥灰",
+        "color": "#9a8878"
+    },
+    {
+        "id": "dankafei",
+        "name": "淡咖啡",
+        "color": "#945833"
+    },
+    {
+        "id": "yanshizong",
+        "name": "岩石棕",
+        "color": "#964d22"
+    },
+    {
+        "id": "mangguozong",
+        "name": "芒果棕",
+        "color": "#954416"
+    },
+    {
+        "id": "shibanhui",
+        "name": "石板灰",
+        "color": "#624941"
+    },
+    {
+        "id": "zhumuhui",
+        "name": "珠母灰",
+        "color": "#64483d"
+    },
+    {
+        "id": "dingxiangzong",
+        "name": "丁香棕",
+        "color": "#71361d"
+    },
+    {
+        "id": "kafei",
+        "name": "咖啡",
+        "color": "#753117"
+    },
+    {
+        "id": "sunpizong",
+        "name": "筍皮棕",
+        "color": "#732e12"
+    },
+    {
+        "id": "yanhanhong",
+        "name": "燕颔红",
+        "color": "#fc6315"
+    },
+    {
+        "id": "yufenhong",
+        "name": "玉粉红",
+        "color": "#e8b49a"
+    },
+    {
+        "id": "jintuo",
+        "name": "金驼",
+        "color": "#e46828"
+    },
+    {
+        "id": "tiezong",
+        "name": "铁棕",
+        "color": "#d85916"
+    },
+    {
+        "id": "zhuwanghui",
+        "name": "蛛网灰",
+        "color": "#b7a091"
+    },
+    {
+        "id": "dankekezong",
+        "name": "淡可可棕",
+        "color": "#b7511d"
+    },
+    {
+        "id": "zhonghonghui",
+        "name": "中红灰",
+        "color": "#8b614d"
+    },
+    {
+        "id": "dantuhuang",
+        "name": "淡土黄",
+        "color": "#8c4b31"
+    },
+    {
+        "id": "dandousha",
+        "name": "淡豆沙",
+        "color": "#873d24"
+    },
+    {
+        "id": "yekezong",
+        "name": "椰壳棕",
+        "color": "#883a1e"
+    },
+    {
+        "id": "dantiehui",
+        "name": "淡铁灰",
+        "color": "#5b423a"
+    },
+    {
+        "id": "zhonghuituo",
+        "name": "中灰驼",
+        "color": "#603d30"
+    },
+    {
+        "id": "danlizong",
+        "name": "淡栗棕",
+        "color": "#673424"
+    },
+    {
+        "id": "kekezong",
+        "name": "可可棕",
+        "color": "#652b1c"
+    },
+    {
+        "id": "zhayezong",
+        "name": "柞叶棕",
+        "color": "#692a1b"
+    },
+    {
+        "id": "yeqiangweihong",
+        "name": "野蔷薇红",
+        "color": "#fb9968"
+    },
+    {
+        "id": "boluohong",
+        "name": "菠萝红",
+        "color": "#fc7930"
+    },
+    {
+        "id": "ouhe",
+        "name": "藕荷",
+        "color": "#edc3ae"
+    },
+    {
+        "id": "taocihong",
+        "name": "陶瓷红",
+        "color": "#e16723"
+    },
+    {
+        "id": "xiaohui",
+        "name": "晓灰",
+        "color": "#d4c4b7"
+    },
+    {
+        "id": "yujinhong",
+        "name": "余烬红",
+        "color": "#cf7543"
+    },
+    {
+        "id": "huozhuanhong",
+        "name": "火砖红",
+        "color": "#cd6227"
+    },
+    {
+        "id": "huonizong",
+        "name": "火泥棕",
+        "color": "#aa6a4c"
+    },
+    {
+        "id": "ganhong",
+        "name": "绀红",
+        "color": "#a6522c"
+    },
+    {
+        "id": "xiangshuzong",
+        "name": "橡树棕",
+        "color": "#773d31"
+    },
+    {
+        "id": "haibaohui",
+        "name": "海报灰",
+        "color": "#483332"
+    },
+    {
+        "id": "meiguihui",
+        "name": "玫瑰灰",
+        "color": "#4b2e2b"
+    },
+    {
+        "id": "huoshanzong",
+        "name": "火山棕",
+        "color": "#482522"
+    },
+    {
+        "id": "dousha",
+        "name": "豆沙",
+        "color": "#481e1c"
+    },
+    {
+        "id": "danmifen",
+        "name": "淡米粉",
+        "color": "#fbeee2"
+    },
+    {
+        "id": "chutaofenhong",
+        "name": "初桃粉红",
+        "color": "#f6dcce"
+    },
+    {
+        "id": "jieqiaodanfenhong",
+        "name": "介壳淡粉红",
+        "color": "#f7cfba"
+    },
+    {
+        "id": "dancanghuahong",
+        "name": "淡藏花红",
+        "color": "#f6ad8f"
+    },
+    {
+        "id": "guaranghong",
+        "name": "瓜瓤红",
+        "color": "#f68c60"
+    },
+    {
+        "id": "furonghong",
+        "name": "芙蓉红",
+        "color": "#f9723d"
+    },
+    {
+        "id": "meijianghong",
+        "name": "莓酱红",
+        "color": "#fa5d19"
+    },
+    {
+        "id": "faluohong",
+        "name": "法螺红",
+        "color": "#ee8055"
+    },
+    {
+        "id": "luoxiahong",
+        "name": "落霞红",
+        "color": "#cf4813"
+    },
+    {
+        "id": "danmeiguihui",
+        "name": "淡玫瑰灰",
+        "color": "#b89485"
+    },
+    {
+        "id": "xiemaohong",
+        "name": "蟹蝥红",
+        "color": "#b14b28"
+    },
+    {
+        "id": "huoyanzong",
+        "name": "火岩棕",
+        "color": "#863020"
+    },
+    {
+        "id": "zheshi",
+        "name": "赭石",
+        "color": "#862617"
+    },
+    {
+        "id": "antuozong",
+        "name": "暗驼棕",
+        "color": "#592620"
+    },
+    {
+        "id": "jiangzong",
+        "name": "酱棕",
+        "color": "#5a1f1b"
+    },
+    {
+        "id": "lizong",
+        "name": "栗棕",
+        "color": "#5c1e19"
+    },
+    {
+        "id": "yangshuixianhong",
+        "name": "洋水仙红",
+        "color": "#f4c7ba"
+    },
+    {
+        "id": "guqiaohong",
+        "name": "谷鞘红",
+        "color": "#f17666"
+    },
+    {
+        "id": "pingguohong",
+        "name": "苹果红",
+        "color": "#f15642"
+    },
+    {
+        "id": "tieshuihong",
+        "name": "铁水红",
+        "color": "#f5391c"
+    },
+    {
+        "id": "guihong",
+        "name": "桂红",
+        "color": "#f25a47"
+    },
+    {
+        "id": "jiguanghong",
+        "name": "极光红",
+        "color": "#f33b1f"
+    },
+    {
+        "id": "fenhong",
+        "name": "粉红",
+        "color": "#f2b9b2"
+    },
+    {
+        "id": "shehong",
+        "name": "舌红",
+        "color": "#f19790"
+    },
+    {
+        "id": "quhong",
+        "name": "曲红",
+        "color": "#f05a46"
+    },
+    {
+        "id": "honggonghong",
+        "name": "红汞红",
+        "color": "#f23e23"
+    },
+    {
+        "id": "danfei",
+        "name": "淡绯",
+        "color": "#f2cac9"
+    },
+    {
+        "id": "wuhuaguohong",
+        "name": "无花果红",
+        "color": "#efafad"
+    },
+    {
+        "id": "liuzihong",
+        "name": "榴子红",
+        "color": "#f1908c"
+    },
+    {
+        "id": "yanzhihong",
+        "name": "胭脂红",
+        "color": "#f03f24"
+    },
+    {
+        "id": "hehuanhong",
+        "name": "合欢红",
+        "color": "#f0a1a8"
+    },
+    {
+        "id": "chunmeihong",
+        "name": "春梅红",
+        "color": "#f1939c"
+    },
+    {
+        "id": "xiangyehong",
+        "name": "香叶红",
+        "color": "#f07c82"
+    },
+    {
+        "id": "shanhuhong",
+        "name": "珊瑚红",
+        "color": "#f04a3a"
+    },
+    {
+        "id": "luobohong",
+        "name": "萝卜红",
+        "color": "#f13c22"
+    },
+    {
+        "id": "danqianhong",
+        "name": "淡茜红",
+        "color": "#e77c8e"
+    },
+    {
+        "id": "yanhong",
+        "name": "艳红",
+        "color": "#ed5a65"
+    },
+    {
+        "id": "danshuhong",
+        "name": "淡菽红",
+        "color": "#ed4845"
+    },
+    {
+        "id": "yusaihong",
+        "name": "鱼鳃红",
+        "color": "#ed3b2f"
+    },
+    {
+        "id": "yingtaohong",
+        "name": "樱桃红",
+        "color": "#ed3321"
+    },
+    {
+        "id": "danruixianghong",
+        "name": "淡蕊香红",
+        "color": "#ee4866"
+    },
+    {
+        "id": "shizhuhong",
+        "name": "石竹红",
+        "color": "#ee4863"
+    },
+    {
+        "id": "caomolihong",
+        "name": "草茉莉红",
+        "color": "#ef475d"
+    },
+    {
+        "id": "chahuahong",
+        "name": "茶花红",
+        "color": "#ee3f4d"
+    },
+    {
+        "id": "goushuhong",
+        "name": "枸枢红",
+        "color": "#ed3333"
+    },
+    {
+        "id": "qiuhaitanghong",
+        "name": "秋海棠红",
+        "color": "#ec2b24"
+    },
+    {
+        "id": "lichunhong",
+        "name": "丽春红",
+        "color": "#eb261a"
+    },
+    {
+        "id": "xiyanghong",
+        "name": "夕阳红",
+        "color": "#de2a18"
+    },
+    {
+        "id": "hedinghong",
+        "name": "鹤顶红",
+        "color": "#d42517"
+    },
+    {
+        "id": "exueshihong",
+        "name": "鹅血石红",
+        "color": "#ab372f"
+    },
+    {
+        "id": "fupenzihong",
+        "name": "覆盆子红",
+        "color": "#ac1f18"
+    },
+    {
+        "id": "diaozi",
+        "name": "貂紫",
+        "color": "#5d3131"
+    },
+    {
+        "id": "anyuzi",
+        "name": "暗玉紫",
+        "color": "#5c2223"
+    },
+    {
+        "id": "lizi",
+        "name": "栗紫",
+        "color": "#5a191b"
+    },
+    {
+        "id": "putaojiangzi",
+        "name": "葡萄酱紫",
+        "color": "#5a1216"
+    },
+    {
+        "id": "mudanfenhong",
+        "name": "牡丹粉红",
+        "color": "#eea2a4"
+    },
+    {
+        "id": "shanchahong",
+        "name": "山茶红",
+        "color": "#ed556a"
+    },
+    {
+        "id": "haitanghong",
+        "name": "海棠红",
+        "color": "#f03752"
+    },
+    {
+        "id": "yuhong",
+        "name": "玉红",
+        "color": "#c04851"
+    },
+    {
+        "id": "gaolianghong",
+        "name": "高粱红",
+        "color": "#c02c38"
+    },
+    {
+        "id": "manjianghong",
+        "name": "满江红",
+        "color": "#a7535a"
+    },
+    {
+        "id": "zaohong",
+        "name": "枣红",
+        "color": "#7c1823"
+    },
+    {
+        "id": "putaozi",
+        "name": "葡萄紫",
+        "color": "#4c1f24"
+    },
+    {
+        "id": "jiangzi",
+        "name": "酱紫",
+        "color": "#4d1018"
+    },
+    {
+        "id": "danshuhong",
+        "name": "淡曙红",
+        "color": "#ee2746"
+    },
+    {
+        "id": "tangchangpuhong",
+        "name": "唐菖蒲红",
+        "color": "#de1c31"
+    },
+    {
+        "id": "eguanhong",
+        "name": "鹅冠红",
+        "color": "#d11a2d"
+    },
+    {
+        "id": "meihong",
+        "name": "莓红",
+        "color": "#c45a65"
+    },
+    {
+        "id": "fengyehong",
+        "name": "枫叶红",
+        "color": "#c21f30"
+    },
+    {
+        "id": "xiancaihong",
+        "name": "苋菜红",
+        "color": "#a61b29"
+    },
+    {
+        "id": "yanhong",
+        "name": "烟红",
+        "color": "#894e54"
+    },
+    {
+        "id": "anziyuanhong",
+        "name": "暗紫苑红",
+        "color": "#82202b"
+    },
+    {
+        "id": "yanhong",
+        "name": "殷红",
+        "color": "#82111f"
+    },
+    {
+        "id": "zhuganzi",
+        "name": "猪肝紫",
+        "color": "#541e24"
+    },
+    {
+        "id": "jinyuzi",
+        "name": "金鱼紫",
+        "color": "#500a16"
+    },
+    {
+        "id": "caozhuhong",
+        "name": "草珠红",
+        "color": "#f8ebe6"
+    },
+    {
+        "id": "danjianghong",
+        "name": "淡绛红",
+        "color": "#ec7696"
+    },
+    {
+        "id": "pinhong",
+        "name": "品红",
+        "color": "#ef3473"
+    },
+    {
+        "id": "fengxianhuahong",
+        "name": "凤仙花红",
+        "color": "#ea7293"
+    },
+    {
+        "id": "fentuanhuahong",
+        "name": "粉团花红",
+        "color": "#ec9bad"
+    },
+    {
+        "id": "jiazhutaohong",
+        "name": "夹竹桃红",
+        "color": "#eb507e"
+    },
+    {
+        "id": "wenpohong",
+        "name": "榲桲红",
+        "color": "#ed2f6a"
+    },
+    {
+        "id": "jianghong",
+        "name": "姜红",
+        "color": "#eeb8c3"
+    },
+    {
+        "id": "lianbanhong",
+        "name": "莲瓣红",
+        "color": "#ea517f"
+    },
+    {
+        "id": "shuihong",
+        "name": "水红",
+        "color": "#f1c4cd"
+    },
+    {
+        "id": "baochunhong",
+        "name": "报春红",
+        "color": "#ec8aa4"
+    },
+    {
+        "id": "yuejihong",
+        "name": "月季红",
+        "color": "#ce5777"
+    },
+    {
+        "id": "jiangdouhong",
+        "name": "豇豆红",
+        "color": "#ed9db2"
+    },
+    {
+        "id": "xiaguanghong",
+        "name": "霞光红",
+        "color": "#ef82a0"
+    },
+    {
+        "id": "songyemudanhong",
+        "name": "松叶牡丹红",
+        "color": "#eb3c70"
+    },
+    {
+        "id": "xidanhong",
+        "name": "喜蛋红",
+        "color": "#ec2c64"
+    },
+    {
+        "id": "shubihong",
+        "name": "鼠鼻红",
+        "color": "#e3b4b8"
+    },
+    {
+        "id": "jianjingyuhong",
+        "name": "尖晶玉红",
+        "color": "#cc163a"
+    },
+    {
+        "id": "shanlidouhong",
+        "name": "山黎豆红",
+        "color": "#c27c88"
+    },
+    {
+        "id": "jinkuihong",
+        "name": "锦葵红",
+        "color": "#bf3553"
+    },
+    {
+        "id": "shubeihui",
+        "name": "鼠背灰",
+        "color": "#73575c"
+    },
+    {
+        "id": "ganzhezi",
+        "name": "甘蔗紫",
+        "color": "#621624"
+    },
+    {
+        "id": "shizhuzi",
+        "name": "石竹紫",
+        "color": "#63071c"
+    },
+    {
+        "id": "cangyinghui",
+        "name": "苍蝇灰",
+        "color": "#36282b"
+    },
+    {
+        "id": "luanshizi",
+        "name": "卵石紫",
+        "color": "#30161c"
+    },
+    {
+        "id": "lizi",
+        "name": "李紫",
+        "color": "#2b1216"
+    },
+    {
+        "id": "qiepizi",
+        "name": "茄皮紫",
+        "color": "#2d0c13"
+    },
+    {
+        "id": "diaozhonghuahong",
+        "name": "吊钟花红",
+        "color": "#ce5e8a"
+    },
+    {
+        "id": "tuyanhong",
+        "name": "兔眼红",
+        "color": "#ec4e8a"
+    },
+    {
+        "id": "zijinghong",
+        "name": "紫荆红",
+        "color": "#ee2c79"
+    },
+    {
+        "id": "caitouzi",
+        "name": "菜头紫",
+        "color": "#951c48"
+    },
+    {
+        "id": "yaoguanzi",
+        "name": "鹞冠紫",
+        "color": "#621d34"
+    },
+    {
+        "id": "putaojiuhong",
+        "name": "葡萄酒红",
+        "color": "#62102e"
+    },
+    {
+        "id": "moshizi",
+        "name": "磨石紫",
+        "color": "#382129"
+    },
+    {
+        "id": "tanzi",
+        "name": "檀紫",
+        "color": "#381924"
+    },
+    {
+        "id": "huoezi",
+        "name": "火鹅紫",
+        "color": "#33141e"
+    },
+    {
+        "id": "mozi",
+        "name": "墨紫",
+        "color": "#310f1b"
+    },
+    {
+        "id": "jinghong",
+        "name": "晶红",
+        "color": "#eea6b7"
+    },
+    {
+        "id": "biandouhuahong",
+        "name": "扁豆花红",
+        "color": "#ef498b"
+    },
+    {
+        "id": "baijihong",
+        "name": "白芨红",
+        "color": "#de7897"
+    },
+    {
+        "id": "nenlinghong",
+        "name": "嫩菱红",
+        "color": "#de3f7c"
+    },
+    {
+        "id": "bogenhong",
+        "name": "菠根红",
+        "color": "#d13c74"
+    },
+    {
+        "id": "cujiangcaohong",
+        "name": "酢酱草红",
+        "color": "#c5708b"
+    },
+    {
+        "id": "yangcongzi",
+        "name": "洋葱紫",
+        "color": "#a8456b"
+    },
+    {
+        "id": "haixiangzi",
+        "name": "海象紫",
+        "color": "#4b1e2f"
+    },
+    {
+        "id": "ganzi",
+        "name": "绀紫",
+        "color": "#461629"
+    },
+    {
+        "id": "gutongzi",
+        "name": "古铜紫",
+        "color": "#440e25"
+    },
+    {
+        "id": "shiruihong",
+        "name": "石蕊红",
+        "color": "#f0c9cf"
+    },
+    {
+        "id": "shaoyaogenghong",
+        "name": "芍药耕红",
+        "color": "#eba0b3"
+    },
+    {
+        "id": "canghuahong",
+        "name": "藏花红",
+        "color": "#ec2d7a"
+    },
+    {
+        "id": "chuhehong",
+        "name": "初荷红",
+        "color": "#e16c96"
+    },
+    {
+        "id": "mabiancaozi",
+        "name": "马鞭草紫",
+        "color": "#ede3e7"
+    },
+    {
+        "id": "dingxiangdanzi",
+        "name": "丁香淡紫",
+        "color": "#e9d7df"
+    },
+    {
+        "id": "danzihong",
+        "name": "丹紫红",
+        "color": "#d2568c"
+    },
+    {
+        "id": "meiguihong",
+        "name": "玫瑰红",
+        "color": "#d2357d"
+    },
+    {
+        "id": "danqianniuzi",
+        "name": "淡牵牛紫",
+        "color": "#d1c2d3"
+    },
+    {
+        "id": "fengxinzi",
+        "name": "凤信紫",
+        "color": "#c8adc4"
+    },
+    {
+        "id": "luolanzi",
+        "name": "萝兰紫",
+        "color": "#c08eaf"
+    },
+    {
+        "id": "meiguizi",
+        "name": "玫瑰紫",
+        "color": "#ba2f7b"
+    },
+    {
+        "id": "tengluozi",
+        "name": "藤萝紫",
+        "color": "#8076a3"
+    },
+    {
+        "id": "jinzi",
+        "name": "槿紫",
+        "color": "#806d9e"
+    },
+    {
+        "id": "xunzi",
+        "name": "蕈紫",
+        "color": "#815c94"
+    },
+    {
+        "id": "jiegengzi",
+        "name": "桔梗紫",
+        "color": "#813c85"
+    },
+    {
+        "id": "weizi",
+        "name": "魏紫",
+        "color": "#7e1671"
+    },
+    {
+        "id": "zhilanzi",
+        "name": "芝兰紫",
+        "color": "#e9ccd3"
+    },
+    {
+        "id": "lingmenghong",
+        "name": "菱锰红",
+        "color": "#d276a3"
+    },
+    {
+        "id": "longxuhong",
+        "name": "龙须红",
+        "color": "#cc5595"
+    },
+    {
+        "id": "jifenhong",
+        "name": "蓟粉红",
+        "color": "#e6d2d5"
+    },
+    {
+        "id": "dianqishihong",
+        "name": "电气石红",
+        "color": "#c35691"
+    },
+    {
+        "id": "yingcaozi",
+        "name": "樱草紫",
+        "color": "#c06f98"
+    },
+    {
+        "id": "lusuihui",
+        "name": "芦穗灰",
+        "color": "#bdaead"
+    },
+    {
+        "id": "yinhonghui",
+        "name": "隐红灰",
+        "color": "#b598a1"
+    },
+    {
+        "id": "xiancaizi",
+        "name": "苋菜紫",
+        "color": "#9b1e64"
+    },
+    {
+        "id": "luhui",
+        "name": "芦灰",
+        "color": "#856d72"
+    },
+    {
+        "id": "muyunhui",
+        "name": "暮云灰",
+        "color": "#4f383e"
+    },
+    {
+        "id": "banjiuhui",
+        "name": "斑鸠灰",
+        "color": "#482936"
+    },
+    {
+        "id": "dantengluozi",
+        "name": "淡藤萝紫",
+        "color": "#f2e7e5"
+    },
+    {
+        "id": "danqingzi",
+        "name": "淡青紫",
+        "color": "#e0c8d1"
+    },
+    {
+        "id": "qinghakezi",
+        "name": "青蛤壳紫",
+        "color": "#bc84a8"
+    },
+    {
+        "id": "doukouzi",
+        "name": "豆蔻紫",
+        "color": "#ad6598"
+    },
+    {
+        "id": "biandouzi",
+        "name": "扁豆紫",
+        "color": "#a35c8f"
+    },
+    {
+        "id": "jiehuazi",
+        "name": "芥花紫",
+        "color": "#983680"
+    },
+    {
+        "id": "qinglian",
+        "name": "青莲",
+        "color": "#8b2671"
+    },
+    {
+        "id": "zizi",
+        "name": "芓紫",
+        "color": "#894276"
+    },
+    {
+        "id": "gejinzi",
+        "name": "葛巾紫",
+        "color": "#7e2065"
+    },
+    {
+        "id": "qianniuzi",
+        "name": "牵牛紫",
+        "color": "#681752"
+    },
+    {
+        "id": "zihui",
+        "name": "紫灰",
+        "color": "#5d3f51"
+    },
+    {
+        "id": "longjingyuzi",
+        "name": "龙睛鱼紫",
+        "color": "#4e2a40"
+    },
+    {
+        "id": "biqizi",
+        "name": "荸荠紫",
+        "color": "#411c35"
+    },
+    {
+        "id": "gudinghui",
+        "name": "古鼎灰",
+        "color": "#36292f"
+    },
+    {
+        "id": "wumeizi",
+        "name": "乌梅紫",
+        "color": "#1e131d"
+    },
+    {
+        "id": "shenqianniuzi",
+        "name": "深牵牛紫",
+        "color": "#1c0d1a"
+    },
+    {
+        "id": "yinbai",
+        "name": "银白",
+        "color": "#f1f0ed"
+    },
+    {
+        "id": "qianshibai",
+        "name": "芡食白",
+        "color": "#e2e1e4"
+    },
+    {
+        "id": "yuanshanzi",
+        "name": "远山紫",
+        "color": "#ccccd6"
+    },
+    {
+        "id": "danlanzi",
+        "name": "淡蓝紫",
+        "color": "#a7a8bd"
+    },
+    {
+        "id": "shangengzi",
+        "name": "山梗紫",
+        "color": "#61649f"
+    },
+    {
+        "id": "luodianzi",
+        "name": "螺甸紫",
+        "color": "#74759b"
+    },
+    {
+        "id": "manaohui",
+        "name": "玛瑙灰",
+        "color": "#cfccc9"
+    },
+    {
+        "id": "yejuzi",
+        "name": "野菊紫",
+        "color": "#525288"
+    },
+    {
+        "id": "mantianxingzi",
+        "name": "满天星紫",
+        "color": "#2e317c"
+    },
+    {
+        "id": "xinhui",
+        "name": "锌灰",
+        "color": "#7a7374"
+    },
+    {
+        "id": "yeputaozi",
+        "name": "野葡萄紫",
+        "color": "#302f4b"
+    },
+    {
+        "id": "jianfengzi",
+        "name": "剑锋紫",
+        "color": "#3e3841"
+    },
+    {
+        "id": "longkuizi",
+        "name": "龙葵紫",
+        "color": "#322f3b"
+    },
+    {
+        "id": "anlongdanzi",
+        "name": "暗龙胆紫",
+        "color": "#22202e"
+    },
+    {
+        "id": "jingshizi",
+        "name": "晶石紫",
+        "color": "#1f2040"
+    },
+    {
+        "id": "anlanzi",
+        "name": "暗蓝紫",
+        "color": "#131124"
+    },
+    {
+        "id": "jingtailan",
+        "name": "景泰蓝",
+        "color": "#2775b6"
+    },
+    {
+        "id": "niluolan",
+        "name": "尼罗蓝",
+        "color": "#2474b5"
+    },
+    {
+        "id": "yuantianlan",
+        "name": "远天蓝",
+        "color": "#d0dfe6"
+    },
+    {
+        "id": "xinglan",
+        "name": "星蓝",
+        "color": "#93b5cf"
+    },
+    {
+        "id": "yushandoulan",
+        "name": "羽扇豆蓝",
+        "color": "#619ac3"
+    },
+    {
+        "id": "huaqing",
+        "name": "花青",
+        "color": "#2376b7"
+    },
+    {
+        "id": "jinglan",
+        "name": "睛蓝",
+        "color": "#5698c3"
+    },
+    {
+        "id": "honglan",
+        "name": "虹蓝",
+        "color": "#2177b8"
+    },
+    {
+        "id": "hushuilan",
+        "name": "湖水蓝",
+        "color": "#b0d5df"
+    },
+    {
+        "id": "qiubolan",
+        "name": "秋波蓝",
+        "color": "#8abcd1"
+    },
+    {
+        "id": "jianshilan",
+        "name": "涧石蓝",
+        "color": "#66a9c9"
+    },
+    {
+        "id": "chaolan",
+        "name": "潮蓝",
+        "color": "#2983bb"
+    },
+    {
+        "id": "qunqing",
+        "name": "群青",
+        "color": "#1772b4"
+    },
+    {
+        "id": "jiqing",
+        "name": "霁青",
+        "color": "#63bbd0"
+    },
+    {
+        "id": "biqing",
+        "name": "碧青",
+        "color": "#5cb3cc"
+    },
+    {
+        "id": "baoshilan",
+        "name": "宝石蓝",
+        "color": "#2486b9"
+    },
+    {
+        "id": "tianlan",
+        "name": "天蓝",
+        "color": "#1677b3"
+    },
+    {
+        "id": "bolinlan",
+        "name": "柏林蓝",
+        "color": "#126bae"
+    },
+    {
+        "id": "haiqing",
+        "name": "海青",
+        "color": "#22a2c3"
+    },
+    {
+        "id": "gulan",
+        "name": "钴蓝",
+        "color": "#1a94bc"
+    },
+    {
+        "id": "yuanweilan",
+        "name": "鸢尾蓝",
+        "color": "#158bb8"
+    },
+    {
+        "id": "qianniuhualan",
+        "name": "牵牛花蓝",
+        "color": "#1177b0"
+    },
+    {
+        "id": "feiyancaolan",
+        "name": "飞燕草蓝",
+        "color": "#0f59a4"
+    },
+    {
+        "id": "pinlan",
+        "name": "品蓝",
+        "color": "#2b73af"
+    },
+    {
+        "id": "yinyubai",
+        "name": "银鱼白",
+        "color": "#cdd1d3"
+    },
+    {
+        "id": "ananlan",
+        "name": "安安蓝",
+        "color": "#3170a7"
+    },
+    {
+        "id": "yuweihui",
+        "name": "鱼尾灰",
+        "color": "#5e616d"
+    },
+    {
+        "id": "jingyuhui",
+        "name": "鲸鱼灰",
+        "color": "#475164"
+    },
+    {
+        "id": "haishenhui",
+        "name": "海参灰",
+        "color": "#fffefa"
+    },
+    {
+        "id": "shayuhui",
+        "name": "沙鱼灰",
+        "color": "#35333c"
+    },
+    {
+        "id": "ganglan",
+        "name": "钢蓝",
+        "color": "#0f1423"
+    },
+    {
+        "id": "yunshuilan",
+        "name": "云水蓝",
+        "color": "#baccd9"
+    },
+    {
+        "id": "qingshanlan",
+        "name": "晴山蓝",
+        "color": "#8fb2c9"
+    },
+    {
+        "id": "dianqing",
+        "name": "靛青",
+        "color": "#1661ab"
+    },
+    {
+        "id": "dalishihui",
+        "name": "大理石灰",
+        "color": "#c4cbcf"
+    },
+    {
+        "id": "haitaolan",
+        "name": "海涛蓝",
+        "color": "#15559a"
+    },
+    {
+        "id": "diechilan",
+        "name": "蝶翅蓝",
+        "color": "#4e7ca1"
+    },
+    {
+        "id": "haijunlan",
+        "name": "海军蓝",
+        "color": "#346c9c"
+    },
+    {
+        "id": "shuiniuhui",
+        "name": "水牛灰",
+        "color": "#2f2f35"
+    },
+    {
+        "id": "niujiaohui",
+        "name": "牛角灰",
+        "color": "#2d2e36"
+    },
+    {
+        "id": "yanhanlan",
+        "name": "燕颔蓝",
+        "color": "#131824"
+    },
+    {
+        "id": "yunfengbai",
+        "name": "云峰白",
+        "color": "#d8e3e7"
+    },
+    {
+        "id": "jingtianlan",
+        "name": "井天蓝",
+        "color": "#c3d7df"
+    },
+    {
+        "id": "yunshanlan",
+        "name": "云山蓝",
+        "color": "#2f90b9"
+    },
+    {
+        "id": "youlan",
+        "name": "釉蓝",
+        "color": "#1781b5"
+    },
+    {
+        "id": "oulan",
+        "name": "鸥蓝",
+        "color": "#c7d2d4"
+    },
+    {
+        "id": "tangcilan",
+        "name": "搪磁蓝",
+        "color": "#11659a"
+    },
+    {
+        "id": "yueyingbai",
+        "name": "月影白",
+        "color": "#c0c4c3"
+    },
+    {
+        "id": "xinghui",
+        "name": "星灰",
+        "color": "#b2bbbe"
+    },
+    {
+        "id": "danlanhui",
+        "name": "淡蓝灰",
+        "color": "#5e7987"
+    },
+    {
+        "id": "yanlan",
+        "name": "鷃蓝",
+        "color": "#144a74"
+    },
+    {
+        "id": "nenhui",
+        "name": "嫩灰",
+        "color": "#74787a"
+    },
+    {
+        "id": "zhanjianhui",
+        "name": "战舰灰",
+        "color": "#495c69"
+    },
+    {
+        "id": "waguanhui",
+        "name": "瓦罐灰",
+        "color": "#47484c"
+    },
+    {
+        "id": "qinghui",
+        "name": "青灰",
+        "color": "#2b333e"
+    },
+    {
+        "id": "gelan",
+        "name": "鸽蓝",
+        "color": "#1c2938"
+    },
+    {
+        "id": "gangqing",
+        "name": "钢青",
+        "color": "#142334"
+    },
+    {
+        "id": "anlan",
+        "name": "暗蓝",
+        "color": "#101f30"
+    },
+    {
+        "id": "yuebai",
+        "name": "月白",
+        "color": "#eef7f2"
+    },
+    {
+        "id": "haitianlan",
+        "name": "海天蓝",
+        "color": "#c6e6e8"
+    },
+    {
+        "id": "qingshuilan",
+        "name": "清水蓝",
+        "color": "#93d5dc"
+    },
+    {
+        "id": "pubulan",
+        "name": "瀑布蓝",
+        "color": "#51c4d3"
+    },
+    {
+        "id": "weilan",
+        "name": "蔚蓝",
+        "color": "#29b7cb"
+    },
+    {
+        "id": "kongquelan",
+        "name": "孔雀蓝",
+        "color": "#0eb0c9"
+    },
+    {
+        "id": "dianzilan",
+        "name": "甸子蓝",
+        "color": "#10aec2"
+    },
+    {
+        "id": "shilv",
+        "name": "石绿",
+        "color": "#57c3c2"
+    },
+    {
+        "id": "zhuhuanglv",
+        "name": "竹篁绿",
+        "color": "#b9dec9"
+    },
+    {
+        "id": "fenlv",
+        "name": "粉绿",
+        "color": "#83cbac"
+    },
+    {
+        "id": "meidielv",
+        "name": "美蝶绿",
+        "color": "#12aa9c"
+    },
+    {
+        "id": "maolv",
+        "name": "毛绿",
+        "color": "#66c18c"
+    },
+    {
+        "id": "koushaolv",
+        "name": "蔻梢绿",
+        "color": "#5dbe8a"
+    },
+    {
+        "id": "maimiaolv",
+        "name": "麦苗绿",
+        "color": "#55bb8a"
+    },
+    {
+        "id": "walv",
+        "name": "蛙绿",
+        "color": "#45b787"
+    },
+    {
+        "id": "tonglv",
+        "name": "铜绿",
+        "color": "#2bae85"
+    },
+    {
+        "id": "zhulv",
+        "name": "竹绿",
+        "color": "#1ba784"
+    },
+    {
+        "id": "lanlv",
+        "name": "蓝绿",
+        "color": "#12a182"
+    },
+    {
+        "id": "qionghui",
+        "name": "穹灰",
+        "color": "#c4d7d6"
+    },
+    {
+        "id": "cuilan",
+        "name": "翠蓝",
+        "color": "#1e9eb3"
+    },
+    {
+        "id": "danfanlan",
+        "name": "胆矾蓝",
+        "color": "#0f95b0"
+    },
+    {
+        "id": "jianniaolan",
+        "name": "樫鸟蓝",
+        "color": "#1491a8"
+    },
+    {
+        "id": "shanlan",
+        "name": "闪蓝",
+        "color": "#7cabb1"
+    },
+    {
+        "id": "bingshanlan",
+        "name": "冰山蓝",
+        "color": "#a4aca7"
+    },
+    {
+        "id": "xiakeqing",
+        "name": "虾壳青",
+        "color": "#869d9d"
+    },
+    {
+        "id": "wanbolan",
+        "name": "晚波蓝",
+        "color": "#648e93"
+    },
+    {
+        "id": "qingtinglan",
+        "name": "蜻蜓蓝",
+        "color": "#3b818c"
+    },
+    {
+        "id": "yuqinlan",
+        "name": "玉鈫蓝",
+        "color": "#126e82"
+    },
+    {
+        "id": "ehui",
+        "name": "垩灰",
+        "color": "#737c7b"
+    },
+    {
+        "id": "xiayunhui",
+        "name": "夏云灰",
+        "color": "#617172"
+    },
+    {
+        "id": "canglan",
+        "name": "苍蓝",
+        "color": "#134857"
+    },
+    {
+        "id": "huanghunhui",
+        "name": "黄昏灰",
+        "color": "#474b4c"
+    },
+    {
+        "id": "huilan",
+        "name": "灰蓝",
+        "color": "#21373d"
+    },
+    {
+        "id": "shenhuilan",
+        "name": "深灰蓝",
+        "color": "#132c33"
+    },
+    {
+        "id": "yuzanlv",
+        "name": "玉簪绿",
+        "color": "#a4cab6"
+    },
+    {
+        "id": "qingfanlv",
+        "name": "青矾绿",
+        "color": "#2c9678"
+    },
+    {
+        "id": "caoyuanyuanlv",
+        "name": "草原远绿",
+        "color": "#9abeaf"
+    },
+    {
+        "id": "wuzhilv",
+        "name": "梧枝绿",
+        "color": "#69a794"
+    },
+    {
+        "id": "langhualv",
+        "name": "浪花绿",
+        "color": "#92b3a5"
+    },
+    {
+        "id": "haiwanglv",
+        "name": "海王绿",
+        "color": "#248067"
+    },
+    {
+        "id": "yadinglv",
+        "name": "亚丁绿",
+        "color": "#428675"
+    },
+    {
+        "id": "niehui",
+        "name": "镍灰",
+        "color": "#9fa39a"
+    },
+    {
+        "id": "minghui",
+        "name": "明灰",
+        "color": "#8a988e"
+    },
+    {
+        "id": "danlvhui",
+        "name": "淡绿灰",
+        "color": "#70887d"
+    },
+    {
+        "id": "feiquanlv",
+        "name": "飞泉绿",
+        "color": "#497568"
+    },
+    {
+        "id": "langyanhui",
+        "name": "狼烟灰",
+        "color": "#5d655f"
+    },
+    {
+        "id": "lvhui",
+        "name": "绿灰",
+        "color": "#314a43"
+    },
+    {
+        "id": "canglv",
+        "name": "苍绿",
+        "color": "#223e36"
+    },
+    {
+        "id": "shenhailv",
+        "name": "深海绿",
+        "color": "#1a3b32"
+    },
+    {
+        "id": "changshihui",
+        "name": "长石灰",
+        "color": "#363433"
+    },
+    {
+        "id": "ganlanlv",
+        "name": "苷蓝绿",
+        "color": "#1f2623"
+    },
+    {
+        "id": "mangconglv",
+        "name": "莽丛绿",
+        "color": "#141e1b"
+    },
+    {
+        "id": "dancuilv",
+        "name": "淡翠绿",
+        "color": "#c6dfc8"
+    },
+    {
+        "id": "minglv",
+        "name": "明绿",
+        "color": "#9eccab"
+    },
+    {
+        "id": "tianyuanlv",
+        "name": "田园绿",
+        "color": "#68b88e"
+    },
+    {
+        "id": "cuilv",
+        "name": "翠绿",
+        "color": "#20a162"
+    },
+    {
+        "id": "danlv",
+        "name": "淡绿",
+        "color": "#61ac85"
+    },
+    {
+        "id": "conglv",
+        "name": "葱绿",
+        "color": "#40a070"
+    },
+    {
+        "id": "kongquelv",
+        "name": "孔雀绿",
+        "color": "#229453"
+    },
+    {
+        "id": "ailv",
+        "name": "艾绿",
+        "color": "#cad3c3"
+    },
+    {
+        "id": "chanlv",
+        "name": "蟾绿",
+        "color": "#3c9566"
+    },
+    {
+        "id": "gongdianlv",
+        "name": "宫殿绿",
+        "color": "#20894d"
+    },
+    {
+        "id": "songshuanglv",
+        "name": "松霜绿",
+        "color": "#83a78d"
+    },
+    {
+        "id": "danbaishilv",
+        "name": "蛋白石绿",
+        "color": "#579572"
+    },
+    {
+        "id": "bohelv",
+        "name": "薄荷绿",
+        "color": "#207f4c"
+    },
+    {
+        "id": "wasonglv",
+        "name": "瓦松绿",
+        "color": "#6e8b74"
+    },
+    {
+        "id": "heyelv",
+        "name": "荷叶绿",
+        "color": "#1a6840"
+    },
+    {
+        "id": "tianluolv",
+        "name": "田螺绿",
+        "color": "#5e665b"
+    },
+    {
+        "id": "baiqucailv",
+        "name": "白屈菜绿",
+        "color": "#485b4d"
+    },
+    {
+        "id": "hetunhui",
+        "name": "河豚灰",
+        "color": "#393733"
+    },
+    {
+        "id": "enyoulv",
+        "name": "蒽油绿",
+        "color": "#373834"
+    },
+    {
+        "id": "hujishenglv",
+        "name": "槲寄生绿",
+        "color": "#2b312c"
+    },
+    {
+        "id": "yunshanlv",
+        "name": "云杉绿",
+        "color": "#15231b"
+    },
+    {
+        "id": "nenjulv",
+        "name": "嫩菊绿",
+        "color": "#f0f5e5"
+    },
+    {
+        "id": "aibeilv",
+        "name": "艾背绿",
+        "color": "#dfecd5"
+    },
+    {
+        "id": "jialingshuilv",
+        "name": "嘉陵水绿",
+        "color": "#add5a2"
+    },
+    {
+        "id": "yusuilv",
+        "name": "玉髓绿",
+        "color": "#41b349"
+    },
+    {
+        "id": "xianlv",
+        "name": "鲜绿",
+        "color": "#43b244"
+    },
+    {
+        "id": "baoshilv",
+        "name": "宝石绿",
+        "color": "#41ae3c"
+    },
+    {
+        "id": "haimeilv",
+        "name": "海沬绿",
+        "color": "#e2e7bf"
+    },
+    {
+        "id": "yaohuang",
+        "name": "姚黄",
+        "color": "#d0deaa"
+    },
+    {
+        "id": "ganlanshilv",
+        "name": "橄榄石绿",
+        "color": "#b2cf87"
+    },
+    {
+        "id": "shuilv",
+        "name": "水绿",
+        "color": "#8cc269"
+    },
+    {
+        "id": "luweilv",
+        "name": "芦苇绿",
+        "color": "#b7d07a"
+    },
+    {
+        "id": "huaihuahuanglv",
+        "name": "槐花黄绿",
+        "color": "#d2d97a"
+    },
+    {
+        "id": "pingguolv",
+        "name": "苹果绿",
+        "color": "#bacf65"
+    },
+    {
+        "id": "yalv",
+        "name": "芽绿",
+        "color": "#96c24e"
+    },
+    {
+        "id": "diehuang",
+        "name": "蝶黄",
+        "color": "#e2d849"
+    },
+    {
+        "id": "ganlanhuanglv",
+        "name": "橄榄黄绿",
+        "color": "#bec936"
+    },
+    {
+        "id": "yingwulv",
+        "name": "鹦鹉绿",
+        "color": "#5bae23"
+    },
+    {
+        "id": "youlv",
+        "name": "油绿",
+        "color": "#253d24"
+    },
+    {
+        "id": "xiangyabai",
+        "name": "象牙白",
+        "color": "#fffef8"
+    },
+    {
+        "id": "hanbaiyu",
+        "name": "汉白玉",
+        "color": "#f8f4ed"
+    },
+    {
+        "id": "xuebai",
+        "name": "雪白",
+        "color": "#fffef9"
+    },
+    {
+        "id": "yudubai",
+        "name": "鱼肚白",
+        "color": "#f7f4ed"
+    },
+    {
+        "id": "zhenzhuhui",
+        "name": "珍珠灰",
+        "color": "#e4dfd7"
+    },
+    {
+        "id": "qianhui",
+        "name": "浅灰",
+        "color": "#dad4cb"
+    },
+    {
+        "id": "qianhui",
+        "name": "铅灰",
+        "color": "#bbb5ac"
+    },
+    {
+        "id": "zhonghui",
+        "name": "中灰",
+        "color": "#bbb5ac"
+    },
+    {
+        "id": "wahui",
+        "name": "瓦灰",
+        "color": "#867e76"
+    },
+    {
+        "id": "yehui",
+        "name": "夜灰",
+        "color": "#847c74"
+    },
+    {
+        "id": "yanhui",
+        "name": "雁灰",
+        "color": "#80766e"
+    },
+    {
+        "id": "shenhui",
+        "name": "深灰",
+        "color": "#81776e"
+    }
+]
